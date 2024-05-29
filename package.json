@@ -2,11 +2,11 @@
     "name": "onurb-theme",
     "displayName": "önurb theme",
     "description": "A minimal theme inspired in Min Theme and Dracula.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "brunoocrv",
     "repository": {
         "type": "git",
-        "url": "https://github.com/brunoocrv/onurb.git"
+        "url": "https://github.com/brunoocrv/onurb-theme.git"
     },
     "engines": {
         "vscode": "^1.89.1"
