@@ -1,16 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/misolori/min-theme/master/icon.png" width="140" />
+# önurb theme
 
-# Min Theme
-
-A minimal theme for VS Code that comes in dark and light.
-
-[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/miguelsolorio.min-theme)
-
-![preview-dark](https://raw.githubusercontent.com/misolori/min-theme/master/screenshot-dark.png)
-
-![preview-light](https://raw.githubusercontent.com/misolori/min-theme/master/screenshot-light.png)
+A minimal theme.
 
 </div>
 
@@ -18,12 +10,7 @@ A minimal theme for VS Code that comes in dark and light.
 
 1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme)
 2. Go to `File > Preferences > Color Theme`
-3. Select `Min Dark` or `Min Light`
-
-Alternatively install via CLI:
-```
-code --install-extension miguelsolorio.min-theme
-```
+3. Select `önurb dark`
 
 ## License
 
