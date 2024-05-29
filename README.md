@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/brunoocrv/onurb-theme/master/onurb.png" width="140" />
+<img src="https://raw.githubusercontent.com/brunoocrv/onurb-theme/main/onurb.png" width="140" />
 
 # önurb theme
 
