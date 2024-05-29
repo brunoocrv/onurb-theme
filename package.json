@@ -1,31 +1,26 @@
 {
-    "name": "min-theme",
-    "displayName": "Min Theme",
-    "description": "A minimal theme that comes in dark and light.",
-    "version": "1.5.0",
-    "publisher": "miguelsolorio",
+    "name": "onurb-theme",
+    "displayName": "önurb theme",
+    "description": "A minimal theme inspired in Min Theme and Dracula.",
+    "version": "1.0.0",
+    "publisher": "brunoocrv",
     "repository": {
         "type": "git",
-        "url": "https://github.com/misolori/min-theme.git"
+        "url": "https://github.com/brunoocrv/onurb.git"
     },
     "engines": {
-        "vscode": "^1.25.0"
+        "vscode": "^1.89.1"
     },
     "categories": [
         "Themes"
     ],
-    "icon": "icon.png",
+    "icon": "onurb.png",
     "contributes": {
         "themes": [
             {
-                "label": "Min Dark",
+                "label": "önurb dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/min-dark.json"
-            },
-            {
-                "label": "Min Light",
-                "uiTheme": "vs",
-                "path": "./themes/min-light.json"
+                "path": "./themes/onurb-dark.json"
             }
         ]
     },
