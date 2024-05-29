@@ -6,6 +6,9 @@
 
 A minimal theme inspired in Min Theme and Dracula.
 
+![onurb-template](https://github.com/brunoocrv/onurb-theme/assets/121953624/cd0e6528-3028-4250-b5ce-d37026aa4cb5)
+
+
 </div>
 
 ## Installation
