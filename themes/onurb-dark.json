@@ -68,7 +68,7 @@
     "debugIcon.stepIntoForeground": "#8be9fd",
     "debugIcon.stepOutForeground": "#8be9fd",
     "debugIcon.stepOverForeground": "#8be9fd",
-    "debugIcon.stopForeground": "#50fa7b",
+    "debugIcon.stopForeground": "#FF5555",
     "debugIcon.breakpointCurrentStackframeForeground": "#50fa7b",
     "debugIcon.breakpointDisabledForeground": "#848484",
     "debugIcon.breakpointForeground": "#8be9fd",
@@ -94,7 +94,7 @@
   },
 	"tokenColors": [{
 			"settings": {
-				"foreground": "#FAFAFA"
+				"foreground": "#f8f8f2"
 			}
 		},
 		{
